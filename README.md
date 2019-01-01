@@ -1,2 +1,2 @@
 # GoodThoughts
-expanded and revisioned search for your favorite books
+expanded and revisioned search engine for your favorite books
